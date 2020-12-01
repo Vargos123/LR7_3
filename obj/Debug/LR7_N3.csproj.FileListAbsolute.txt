@@ -1,0 +1,15 @@
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.csprojAssemblyReference.cache
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\MainWindow.g.cs
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\App.g.cs
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3_MarkupCompile.cache
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3_MarkupCompile.lref
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\bin\Debug\LR7_N3.exe.config
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\bin\Debug\LR7_N3.exe
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\bin\Debug\LR7_N3.pdb
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\MainWindow.baml
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.g.resources
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.Properties.Resources.resources
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.csproj.GenerateResource.cache
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.csproj.CoreCompileInputs.cache
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.exe
+C:\Users\Vasyl\source\repos\LR7_N3\LR7_N3\obj\Debug\LR7_N3.pdb
